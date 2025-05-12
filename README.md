@@ -15,6 +15,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante especializado em inglês e c
 - **Linguagens de programação:** Python (básico)
 - **Ferramentas:** PyCharm
 
+<!--
+## Projetos em Destaque
+
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve do projeto 1.
+-->
+
 ## Entre em Contato
 
 - [LinkedIn]
