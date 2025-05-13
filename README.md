@@ -22,6 +22,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante especializado em inglês e c
 Descrição breve do projeto 1.
 -->
 
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasA350&show_icons=true&theme=radical)
+
 ## Entre em Contato
 
 - [LinkedIn]
