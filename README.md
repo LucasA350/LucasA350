@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um estudante especializado em inglês e com interesse em tecnologia e programação.
+Bem-vindo ao meu perfil no GitHub! Sou um estudante fluente em inglês e com interesse em tecnologia e programação.
 
 ## Sobre Mim
 
